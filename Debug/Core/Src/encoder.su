@@ -1,0 +1,10 @@
+../Core/Src/encoder.c:40:23:LeerEstadoEncoder	16	static
+../Core/Src/encoder.c:47:23:LeerBotonCrudo	16	static
+../Core/Src/encoder.c:57:6:Encoder_Init	8	static
+../Core/Src/encoder.c:67:6:Encoder_Tick	16	static
+../Core/Src/encoder.c:111:8:Encoder_GetDelta	24	static,ignoring_inline_asm
+../Core/Src/encoder.c:124:9:Encoder_GetBoton	24	static,ignoring_inline_asm
+../Core/Src/encoder.c:134:9:Encoder_GetPosicion	4	static
+../Core/Src/encoder.c:139:9:Encoder_BotonPresionado	4	static
+../Core/Src/encoder.c:149:6:Encoder_DebugInit	4	static
+../Core/Src/encoder.c:154:6:Encoder_DibujarDebug	72	static

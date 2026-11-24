@@ -1,0 +1,14 @@
+../Core/Src/sim.c:23:21:VentanaST	5
+../Core/Src/sim.c:59:14:AlturaR	1
+../Core/Src/sim.c:67:13:NormalizarPlantillas	8
+../Core/Src/sim.c:93:17:SplitMix32_Init	2
+../Core/Src/sim.c:103:24:PRNG_NextU32	1
+../Core/Src/sim.c:114:21:PRNG_Uniform01	1
+../Core/Src/sim.c:120:21:PRNG_Gaussian	1
+../Core/Src/sim.c:136:21:Fast_Sin	4
+../Core/Src/sim.c:150:13:PlanificarSiguienteLatido	18
+../Core/Src/sim.c:245:6:Sim_SetSemilla	1
+../Core/Src/sim.c:261:6:Sim_Init	1
+../Core/Src/sim.c:282:6:Sim_SetPatologia	2
+../Core/Src/sim.c:293:9:Sim_Step	19
+../Core/Src/sim.c:415:9:Sim_MapearAPantallaY	3

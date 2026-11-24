@@ -1,0 +1,9 @@
+../Core/Src/TFT_ILI9341.c:4:6:TFT_WriteCommand	16	static
+../Core/Src/TFT_ILI9341.c:15:6:TFT_WriteData	16	static
+../Core/Src/TFT_ILI9341.c:25:6:TFT_Init	16	static
+../Core/Src/TFT_ILI9341.c:85:6:TFT_FillColor	544	static
+../Core/Src/TFT_ILI9341.c:124:6:TFT_DrawRectangle	560	static
+../Core/Src/TFT_ILI9341.c:183:6:TFT_DrawPixel	24	static
+../Core/Src/TFT_ILI9341.c:192:6:TFT_DrawGlyph	296	static
+../Core/Src/TFT_ILI9341.c:230:6:TFT_DrawChar	32	static
+../Core/Src/TFT_ILI9341.c:237:6:TFT_DrawText	40	static

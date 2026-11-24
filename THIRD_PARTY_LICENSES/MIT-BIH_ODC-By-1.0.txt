@@ -1,0 +1,157 @@
+Open Data Commons Attribution License v1.0 (ODC-By-1.0)
+==========================================================
+
+MIT-BIH Arrhythmia Database (PhysioNet)
+----------------------------------------
+
+This license governs the use of the MIT-BIH Arrhythmia Database,
+hosted by PhysioNet (https://physionet.org/content/mitdb/1.0.0/).
+
+The database was originally created by:
+- Massachusetts Institute of Technology (MIT)
+- Beth Israel Hospital (now Beth Israel Deaconess Medical Center)
+- Supported by NIH/NIBIB grant R01 EB017185
+
+================================================================================
+LICENSE TEXT
+================================================================================
+
+Open Data Commons Attribution License (ODC-By) v1.0
+
+The Open Data Commons Attribution License is a license agreement
+designed to allow users to freely share, modify, and use databases
+while requiring attribution to the original source.
+
+By using this database, you accept and agree to be bound by the terms
+of this license. If you do not agree, do not use the database.
+
+1. DEFINITIONS
+
+a. "Database" means a collection of data (the "Contents") organized
+   in a systematic or methodical way, individually accessible by
+   electronic or other means offered by the Database Right holder.
+
+b. "Database Right" means any right resulting from the Chapter III
+   ("sui generis right") of Directive 96/9/EC of the European
+   Parliament and of the Council of 11 March 1996 on the legal
+   protection of databases, and any substantially equivalent rights
+   anywhere in the world.
+
+c. "License" means this license agreement.
+
+d. "Licensor" means the person or entity offering the Database under
+   the terms of this License.
+
+e. "Use" or "Re-use" means doing any act which is restricted by
+   copyright or Database Right whether in the original medium or
+   any other; and includes without limitation distributing, copying,
+   modifying, adapting, and extracting or re-utilizing the Contents.
+
+f. "You" means a person or entity exercising rights under this
+   License who has not previously violated the terms of this License
+   with respect to the Database, or who has received express
+   permission from the Licensor to exercise rights under this
+   License despite a previous violation.
+
+2. WHAT THIS LICENSE COVERS
+
+This License grants You rights over:
+a. The Database as a whole;
+b. The Contents of the Database; and
+c. Substantial extracts of the Contents of the Database.
+
+These rights are granted with respect to the Database as protected
+by copyright and/or Database Right. Other rights (including patent
+and trademark rights) are not affected by this License.
+
+3. RIGHTS GRANTED
+
+Subject to the terms and conditions of this License, the Licensor
+grants to You a worldwide, royalty-free, non-exclusive, terminable
+(but only in accordance with Section 7) license to Use the Database
+for the duration of any applicable copyright and Database Rights.
+These rights explicitly include commercial use and do not limit the
+nature of the use.
+
+4. CONDITIONS OF USE
+
+The rights granted in Section 3 are subject to the following
+conditions:
+
+4.1 Attribution. You must attribute the Database in any public
+     Use of the Database, or works generated from the Database,
+     in the manner specified by the Licensor. If the Licensor has
+     not specified a manner, You must attribute the Database by:
+     a. Keeping intact any copyright notices for the Database and
+        providing a notice referring to this License; and
+     b. If reasonably possible, including a URI or hyperlink to the
+        Database.
+
+4.2 License Notice. For any public Use of the Database, or works
+     generated from the Database, You must make clear to others the
+     license terms of this Database. The best way to do this is to
+     include a copy of this License or a URI or hyperlink to this
+     License.
+
+4.3 Share-Alike (Optional). If the Licensor has designated the
+     Database as "Share-Alike", then for any Derivative Database
+     You must offer it under the same License (or a compatible
+     license as defined in Section 6). The MIT-BIH Database is
+     NOT designated as Share-Alike.
+
+5. MORAL RIGHTS
+
+This License does not affect any moral rights of creators of the
+Database or Contents, including the right to be identified as the
+creator of a work, and the right to object to derogatory treatment
+of a work.
+
+6. COMPATIBLE LICENSES
+
+You may distribute a Derivative Database under a license that is
+compatible with this License. For the purposes of this License,
+"compatible" means a license that:
+a. Permits the same freedoms as this License;
+b. Requires attribution no less restrictive than this License;
+c. Is consistent with the Open Data Commons principles.
+
+7. TERMINATION
+
+This License and the rights granted hereunder will terminate
+automatically upon any breach by You of the terms of this License.
+Individuals or entities who have received a Derivative Database
+from You under this License, however, will not have their licenses
+terminated provided such individuals or entities remain in full
+compliance with those licenses.
+
+8. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+THE DATABASE IS PROVIDED "AS IS" AND THE LICENSOR MAKES NO
+WARRANTIES OR REPRESENTATIONS OF ANY KIND CONCERNING THE
+DATABASE, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING,
+WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO
+EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING
+OUT OF OR RELATED TO THIS LICENSE OR THE USE OF THE DATABASE.
+
+================================================================================
+ATTRIBUTION REQUIRED FOR THIS PROJECT
+================================================================================
+
+Since this project uses ECG templates derived from the MIT-BIH
+Arrhythmia Database (via VAE generative model trained on MIT-BIH
+MLII lead, 360 Hz, segmented and normalized), the following
+attribution must be maintained in all redistributions:
+
+"ECG templates derived from the MIT-BIH Arrhythmia Database
+ (Goldberger AL, Amaral LAN, Glass L, Hausdorff JM, Ivanov PCh,
+ Mark RG, Mietus JE, Moody GB, Peng C-K, Stanley HE. PhysioBank,
+ PhysioToolkit, and PhysioNet: Components of a New Research
+ Resource for Complex Physiologic Signals. Circulation 101(23):e215-e220,
+ 2000. https://physionet.org/content/mitdb/1.0.0/)"
+
+================================================================================
+Source: https://opendatacommons.org/licenses/by/1.0/
+        https://physionet.org/content/mitdb/1.0.0/
+================================================================================
